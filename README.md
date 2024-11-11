@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently learning front-end web development
 
-
+[![wakatime](https://wakatime.com/badge/user/8bfa3fda-02a8-472d-92e0-358cfd7a4067.svg)](https://wakatime.com/@8bfa3fda-02a8-472d-92e0-358cfd7a4067)
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 # 📊 GitHub Stats:
