@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning **Front End Developer**
-📫 How to reach me **fakihkazorla@gmail.com**
+- 🌱 I’m currently learning **Front End Developer**
+- 📫 How to reach me **fakihkazorla@gmail.com**
 
 [![wakatime](https://wakatime.com/badge/user/8bfa3fda-02a8-472d-92e0-358cfd7a4067.svg)](https://wakatime.com/@8bfa3fda-02a8-472d-92e0-358cfd7a4067)
 # 💻 Tech Stack:
